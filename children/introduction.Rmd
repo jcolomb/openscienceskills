@@ -32,6 +32,8 @@ It comprises different areas, i.g. access to the scientific literature and data 
 
 ## topics (working toc)
 
+**most inspiration coming from https://github.com/kbroman/steps2rr**
+
 1. Data gathering
     - sampling, randomisation and blindness
     - tidy table
