@@ -4,7 +4,10 @@ author: "Dr. Julien Colomb"
 
 output: pdf_document
 ---
+# About this document
+This document tries to gather information about how to become a good (open) scientist and follow the highest standard in data management and dissemination. The audience is primarily PhD students, but more experienced researchers may also benefit from it.
 
+I am looking for help: co-authors, reviewers and commentators are welcome, see https://github.com/jcolomb/openscienceskills.git to see how you could help
 
 ```{r child = children}
 ```
