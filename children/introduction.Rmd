@@ -1,6 +1,6 @@
 # Introduction
 
-## New standars in science
+## New standards in science
 
 Standards are continuously changing. In 2007, I could publish the anatomy of the Drosophila gustatory system having one good preparation per genotype. Today, I would need 10 of these. At the time, we thought differences between specimen were due to technical reasons, such that the best preparation was giving the "real" result. Nowadays, we know that the variability is biological and not technical, and one need more preparation to estimate the average result. We know more about the system, which ask more from us in return. Standards are changing and it is good. But it also means more work, leading to a need for more collaboration. Open science is the mean to achieve better science. 
 
