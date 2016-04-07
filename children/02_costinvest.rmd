@@ -1,0 +1,15 @@
+---
+title: "nocost_investment"
+author: "julien"
+date: "7 Apr 2016"
+output: pdf_document
+---
+
+#Open data has no cost 
+
+Organizing data for it to be shared represents a lot of work. This is often presented as an extra cost for scientists, there would be a cost to share own's data. I do not agree: there is no cost in making own's data sharable, but there is a time **investment**. An analogy will best show my point: The very basic rule in a molecular biology lab is: tidy your bench, make sure that your solutions, samples and equipment are kept in the right place and temperature and that the equipment is well maintained. It will save you time for your next experiment (finding the right reagents and your tools). The same apply for data: **tidy your data files**, make sure that your data is kept in the right place and format and that your analysis tools are well maintained.
+
+The amount of time saved by organizing your data overwhelm by far the time invested to organize it. Everybody aggrees that the extra cost to share organized data is tiny. In conclusion, Open data is not costly, it is only a question of training and getting the right habits.
+
+![Tidy your bench](./Figures/tidyyourdata.pdf)
+
